@@ -11,6 +11,8 @@
     <modules>
         <module>cloud-eureka</module>
         <module>cloud-system</module>
+        <module>cloud-auth</module>
+        <module>cloud-common</module>
     </modules>
 
     <parent>
